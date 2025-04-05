@@ -1,16 +1,65 @@
-## Hi there 👋
+# 📚 Welcome To My Portfolio!
 
-<!--
-**zaiello/zaiello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Zoe! I’m a data analyst with a strong background in analysis, modeling, and query optimization. I’m passionate about delivering insights in a way that resonates with the intended audience, creating clear and impactful visualizations, infographics, and reports tailored to their needs.
 
-Here are some ideas to get you started:
+Click a link to view projects in each skillset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* Data analysis and modeling
+* Data communication (visualization, dashboard development, audience-centered writing)
+* Query development and validation
+
+## 🛠️ Tools
+
+* Languages: [R](#r), SAS, [SQL](#sql), [Python](#python)
+* Databases: Google BigQuery, MySQL
+* Visualization: PowerBI, RShiny, ggplot, plotly, flexdashboard
+
+## 👋🏻 Connect with Me
+
+[Linkedin](www.linkedin.com/in/zoe-aiello-aa7870340)
+
+
+# 📌 Projects
+
+## SQL 
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| |  | | 
+| |  |  |  
+|  | |  |  
+
+***
+
+## Python 
+
+| Project Link | Skills | Project Description | 
+|---|---|---|
+| 🏡 [Housing Price Prediction](https://github.com/zaiello/housingprice) | Predictive modeling | This repo houses my entry to a [kaggle competition](https://www.kaggle.com/competitions/home-data-for-ml-course/overview) which challenges applicants to predict the prices of homes in Ames, Iowa using 79 explanatory variables. At the time of submission, my ridge regression model scored in the top 2% of all submissions (ranked 1008 out of 46,948) showcasing my proficiency in predictive modeling, feature selection, and various Python libraries like pandas, numpy and sklearn. | 
+| |  |  |  
+|  | |  |  
+
+***
+
+## R
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| |  | | 
+| |  |  |  
+|  | |  |  
+
+***
+
+## Visualizations
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| |  | | 
+| |  |  |  
+|  | |  |  
+
+***
+
