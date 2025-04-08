@@ -1,3 +1,5 @@
+****⚠️ This portfolio is currently under construction, check back later for updates! ⚠️****
+
 # 📚 Welcome To My Portfolio!
 
 Hi, I'm Zoe! I’m a data analyst with a strong background in analysis, modeling, and query optimization. I’m passionate about delivering insights in a way that resonates with the intended audience, creating clear and impactful visualizations, infographics, and reports tailored to their needs.
