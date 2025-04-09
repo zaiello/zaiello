@@ -57,10 +57,10 @@ Click a link to view projects in each skillset.
 
 ## Visualizations
 
-| Project Link | Area of Analysis | Project Description | 
+| Project Link | Skills | Project Description | 
 |---|---|---|
-| |  | | 
-| |  |  |  
+|🫁 [Respiratory Illness Report](https://github.com/zaiello/resp_report) | Excel, Data Visualization, Data Storytelling, Collaboration, Public Communication | Collaborated with epidemiologists and public health leads to produce Maricopa County’s seasonal respiratory illness report. Created all syndromic surveillance visualizations in Excel and reviewed both graphics and written content to ensure clarity, accessibility, and public readability.| 
+|🚽 [Wastewater Infographic](https://github.com/zaiello/infographics) | Canva, Graphic Design, Public Communication, Science Writing | Designed an infographic for Maricopa County’s official Wastewater Monitoring webpage. The visual educates the public on Wastewater-Based Epidemiology in a format that is both accessible and visually engaging.|  
 |  | |  |  
 
 ***
